@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:ovmediaplayer/screens/home.dart';
+import 'package:ovmediaplayer/screens/home/home.dart';
 
 void main() {
   //running
