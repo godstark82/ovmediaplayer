@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:ovmediaplayer/screens/home.dart';
 
 void main() {
+  //Running the App
   runApp(const MainApp());
 }
 
